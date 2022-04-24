@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Metamask Wallet Generator</string>
+    <string name="address">address</string>
+    <string name="mnemonic">mnemonic</string>
+    <string name="private_key">private key</string>
+    <string name="text_copied_to_clipboard">Text copied to clipboard.</string>
+    <string name="generate">generate</string>
+    <string name="password">password</string>
+    <string name="ethereum_logo">Ethereum Logo</string>
+    <string name="path">path</string>
+    <string name="increase">+1</string>
+    <string name="clear">clear</string>
+    <string name="delete">delete</string>
+    <string name="add_one">add one</string>
+    <string name="create">create</string>
+    <string name="word_list_not_loaded">The word list has not been loaded</string>
+    <string name="invalid_entropy">The given entropy is invalid.</string>
+</resources>
